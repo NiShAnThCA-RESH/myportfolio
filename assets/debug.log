@@ -1,0 +1,5 @@
+[0830/214840.116:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0830/214840.300:ERROR:exception_snapshot_win.cc(100)] thread ID 21248 not found in process
+[0830/214840.300:ERROR:process_memory_win.cc(73)] ReadMemory at 0x824e9febf0 of 16 bytes failed: Only part of a ReadProcessMemory or WriteProcessMemory request was completed. (0x12B)
+[0830/214840.537:ERROR:exception_snapshot_win.cc(211)] EXCEPTION_POINTERS read failed
+[0830/214840.545:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
